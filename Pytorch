@@ -1,0 +1,7 @@
+This is my first deep learning project where I worked on image processing and then worked with Tensorflow. 
+Deep Learning is a subset of Machine Learning which uses neural networks to train a model.
+This model tells you whether a person is wearing a face mask or not.
+I used the unprocessed images to train the model and efficiency was --> 50%
+Which on processing images, resizing and converting to RGB , also scaling the data, incresed the efficiency to -->92%
+Tensorflow is developed by Google and Pytorch by Youtube and in this project I used Tensorflow.
+Looking forward to working with Pytorch.
